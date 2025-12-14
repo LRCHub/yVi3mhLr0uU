@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "終焉逃避行",
+  "base_artist": "柊マグネタイト",
+  "createdAt": "2025-12-14T06:06:51.207221Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "終焉逃避行",
+      "artist": "柊マグネタイト",
+      "has_synced": true,
+      "path": "select/01_終焉逃避行_柊マグネタイト.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "終焉逃避行",
+      "artist": "柊マグネタイト",
+      "has_synced": false,
+      "path": "select/pl_01_終焉逃避行_柊マグネタイト.txt"
+    }
+  ]
+}
